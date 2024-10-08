@@ -18,7 +18,7 @@ This GitHub account serves as my portfolio, showcasing my projects and technical
 
 Here are some highlights of my work:
 
-- [NetApp FabricPool Technical Writing Project](): Documentation focused on the architecture and setup of NetApp's FabricPool feature.
+- [NetApp FabricPool Technical Writing Project](https://github.com/ijwat/netapp-docs): Documentation focused on the architecture and setup of NetApp's FabricPool feature.
 - [Spotify Playlist Cleanup Project](https://github.com/ijwat/spotify-playlist-cleanup): A Python project that manipulates Spotify playlists using the Spotipy library to remove duplicate tracks.
 - [GIS Research Project](https://github.com/ijwat/gis-research-project): A research project that uses QGIS to analyze and visualize data, providing insights into geographic patterns and trends
 
