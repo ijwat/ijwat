@@ -20,7 +20,7 @@ Here are some highlights of my work:
 
 - [NetApp FabricPool Technical Writing Project](https://github.com/ijwat/netapp-docs): Documentation focused on the architecture and setup of NetApp's FabricPool feature.
 - [Spotify Playlist Cleanup Project](https://github.com/ijwat/spotify-playlist-cleanup): A Python project that manipulates Spotify playlists using the Spotipy library to remove duplicate tracks.
-- [GIS Research Project](https://github.com/ijwat/gis-research-project): A research project that uses QGIS to analyze and visualize data, providing insights into geographic patterns and trends
+- [Data Analysis](https://github.com/ijwat/dataprojects): A repository dedicated to ongoing Data Analysis + Visualizations for stocks and other contexts.
 
 ## Get in Touch
 
